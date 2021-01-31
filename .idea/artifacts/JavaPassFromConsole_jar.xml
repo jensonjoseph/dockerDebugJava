@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="JavaPassFromConsole:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/JavaPassFromConsole_jar</output-path>
-    <root id="archive" name="JavaPassFromConsole.jar">
-      <element id="module-output" name="JavaPassFromConsole" />
-    </root>
-  </artifact>
-</component>
